@@ -4,7 +4,7 @@ const newsDatabase = [
         id: 1,
         title: "Привет мир!",
         date: "15 марта 2025",
-        image: "https://steamuserimages-a.akamaihd.net/ugc/919167172007644154/EC9ED4A67B1320E869DF389117CB8AF29F7405A0/?imw=512&amp;imh=148&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+        image: "https://gamef.ucoz.net/_nw/0/83988183.jpg",
         excerpt: "Эта страница была созда именно в этот день.",
         fullText: "Иди книжки читай, а не ерунду!."
     },
